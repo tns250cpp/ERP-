@@ -15,4 +15,4 @@
 
 ---
 
-### Functional_Spec : 
+### Functional_Spec : [FUNCTIONAL_SPEC.pdf](https://github.com/tns250cpp/ERP_DeliverablesManagementService/files/14533587/FUNCTIONAL_SPEC.pdf)
